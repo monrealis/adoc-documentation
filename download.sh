@@ -1,8 +1,10 @@
 #!/usr/bin/env bash
 
 function download {
-	# test -f $1 || wget $2 -O $1
-	test -f $1 || curl $2 -o $1
+	file=$1
+	url=$2
+	# test -f $file || wget $url -O $file
+	test -f $file || curl $url -o $file
 }
 
 download asic.pdf http://www.etsi.org/deliver/etsi_ts/102900_102999/102918/01.02.01_60/ts_102918v010201p.pdf
