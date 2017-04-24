@@ -6,7 +6,6 @@ adoc/adoc-v2.docx https://www.e-tar.lt/rs/legalact/8b67c9108f5e11e4a98a9f2247652
 adoc/adoc-v2.pdf https://www.e-tar.lt/rs/legalact/8b67c9108f5e11e4a98a9f2247652cf4/format/ISO_PDF/
 adoc/adoc-v2.odt https://www.e-tar.lt/rs/legalact/8b67c9108f5e11e4a98a9f2247652cf4/format/OO3_ODT/
 
-
 pdf-lt/pdf-lt.docx https://www.e-tar.lt/rs/legalact/31a319e02f7111e4a83cb4f588d2ac1a/format/MSO2010_DOCX/
 pdf-lt/pdf-lt.pdf https://www.e-tar.lt/rs/legalact/31a319e02f7111e4a83cb4f588d2ac1a/format/ISO_PDF/
 pdf-lt/pdf-lt.odt https://www.e-tar.lt/rs/legalact/31a319e02f7111e4a83cb4f588d2ac1a/format/OO3_ODT/
