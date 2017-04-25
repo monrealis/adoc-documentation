@@ -11,3 +11,15 @@ pdf-lt/pdf-lt.pdf https://www.e-tar.lt/rs/legalact/31a319e02f7111e4a83cb4f588d2a
 pdf-lt/pdf-lt.odt https://www.e-tar.lt/rs/legalact/31a319e02f7111e4a83cb4f588d2ac1a/format/OO3_ODT/
 pdf-lt/pdf-lt-priedas.docx https://www.e-tar.lt/rs/lasupplement/31a319e02f7111e4a83cb4f588d2ac1a/3f2262f1381e11e48fcad59d61177654/
 pdf-lt/pdf-lt-priedas.pdf https://www.e-tar.lt/rs/lasupplement/31a319e02f7111e4a83cb4f588d2ac1a/3f2262f1381e11e48fcad59d61177654/format/ISO_PDF/
+
+dsig/specifikacijos-senas.docx https://www.e-tar.lt/rs/legalact/5f829e1033bd11e69cf5d89a5fdd27cc/format/MSO2010_DOCX/
+dsig/specifikacijos-senas.pdf  https://www.e-tar.lt/rs/legalact/5f829e1033bd11e69cf5d89a5fdd27cc/format/ISO_PDF/
+dsig/specifikacijos-senas.odt  https://www.e-tar.lt/rs/legalact/5f829e1033bd11e69cf5d89a5fdd27cc/format/OO3_ODT/
+dsig/specifikacijos.docx https://www.e-tar.lt/rs/legalact/a79ba6a0f29a11e692c5977c7316c9b5/format/MSO2010_DOCX/
+dsig/specifikacijos.pdf  https://www.e-tar.lt/rs/legalact/a79ba6a0f29a11e692c5977c7316c9b5/format/ISO_PDF/
+dsig/specifikacijos.odt  https://www.e-tar.lt/rs/legalact/a79ba6a0f29a11e692c5977c7316c9b5/format/OO3_ODT/
+
+
+
+
+
