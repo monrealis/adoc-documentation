@@ -19,6 +19,9 @@ dsig/specifikacijos.docx https://www.e-tar.lt/rs/legalact/a79ba6a0f29a11e692c597
 dsig/specifikacijos.pdf  https://www.e-tar.lt/rs/legalact/a79ba6a0f29a11e692c5977c7316c9b5/format/ISO_PDF/
 dsig/specifikacijos.odt  https://www.e-tar.lt/rs/legalact/a79ba6a0f29a11e692c5977c7316c9b5/format/OO3_ODT/
 
+mdoc/specifikacija.docx https://www.e-tar.lt/rs/actualedition/TAR.993F6FB323AA/zALaKijaOG/format/MSO2010_DOCX/
+mdoc/specifikacija.pdf https://www.e-tar.lt/rs/actualedition/TAR.993F6FB323AA/zALaKijaOG/format/ISO_PDF/
+mdoc/specifikacija.odt https://www.e-tar.lt/rs/actualedition/TAR.993F6FB323AA/zALaKijaOG/format/OO3_ODT/
 
 
 
